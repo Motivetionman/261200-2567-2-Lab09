@@ -4,6 +4,7 @@ Rectangle.java
 Circle.java
 Ellipse.java
 AreaCalculator.java
+ocpdemo.java
 
 lsp lab
 Workable.java
@@ -17,6 +18,8 @@ Penguin.java
 Ostrich.java
 Sparrow.java
 Eagle.java
+Lspdemo.java
+
 
 dip lab
 Notifier.java
